@@ -18,6 +18,12 @@ For "Time Elapsed" set ***only*** the StartTimestamp
 For "Remaining Time" set both.  
 *Note: Discord only shows hours/minutes/seconds, it does not go above 24 hours*  
 
+**Images**  
+For the image keys, just paste an image url (gifs work too!)
+
+**Buttons**  
+Button labels can not be longer than 32 characters.
+
 **Building**  
 If you would like to build this from source, it should be straight forward however I will fill this section out soon.
 
