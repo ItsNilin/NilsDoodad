@@ -22,7 +22,7 @@ If you would like to build this from source, it should be straight forward howev
 
 **Malware??!?!?**  
 Windows defender will flag this as a false positive, that is because the exe is accessing a file on your computer (config.ini)
-the source code is here to confirm for yourself, however please do check it yourself for verification and/or build it from source
+the source code here is safe, however please do scan it yourself for verification and/or build it from source
 if you are concerned. Always stay safe and be cautious when downloading off the internet!
 
 
