@@ -22,7 +22,7 @@ For "Remaining Time" set both.
 If you would like to build this from source, it should be straight forward however I will fill this section out soon.
 
 **Malware??!?!?**  
-Windows defender ***MAY*** flag this as a false positive, that is because the exe is accessing a file on your computer (config.ini)  
+Windows defender ***MAY*** flag this as a false positive, that is because the exe is accessing a file on your computer (config.ini) and reporting it to Discord's API  
 the source code here is safe, however please do scan it yourself for verification and/or build it from source  
 if you are concerned. Always stay safe and be cautious when downloading off the internet!  
 
