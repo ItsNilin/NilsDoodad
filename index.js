@@ -42,7 +42,6 @@ async function setActivity(config) {
     instance: false
   };
 
-  // Check if at least one button is filled out in the config
   if (
     config.Buttons &&
     ((config.Buttons.Button1Label && config.Buttons.Button1URL) ||
